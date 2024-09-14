@@ -100,9 +100,9 @@ header-includes:
 
 ##
 
-![](image/23.png){width=50%}
+![Анализ корректности работы DNS-сервера](image/23.png){#fig:18 width=50%}
 
-![](image/24.png){width=50%}
+![Анализ корректности работы DNS-сервера](image/24.png){#fig:19 width=50%}
 
 ![Анализ корректности работы DNS-сервера](image/25.png){#fig:20 width=50%}
 
